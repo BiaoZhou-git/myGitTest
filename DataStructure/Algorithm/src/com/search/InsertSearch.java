@@ -39,6 +39,8 @@ public class InsertSearch {
 			return insertSearch(arr, mid+1, right, key);
 		}else {
 			return mid;//递归出口2，找到了
+
+
 		}
 	}
 }
